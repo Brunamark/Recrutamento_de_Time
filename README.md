@@ -1,2 +1,2 @@
-# UX-Design-Web-Project-DIW
+# UX Design Web Project
 Trabalho de desenvolvimento e interfaces web UX Design e Web Project
